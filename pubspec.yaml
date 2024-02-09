@@ -1,0 +1,16 @@
+name: meesho_login_page
+description: A Flutter project to replicate the Meesho login page.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  google_fonts: ^6.1.0
+
+flutter:
+  assets:
+    - meesho_logo.png
